@@ -10,6 +10,14 @@ Repositorio publico con notebooks de actividades de laboratorio para la asignatu
 - Modulo 4: Tecnicas de regularizacion
 - Modulo 5: Optimizacion de modelos e hiperparametros
 
+## Preparacion Examen Final
+
+Notebooks de practica alineados a los 3 bancos de preguntas del examen final. Cada uno se resuelve en aproximadamente 60 minutos con datos sinteticos generados con semilla fija.
+
+- Banco 1: Formulacion del problema, metricas de evaluacion y diagnostico de sesgo/varianza (Modulos 1, 2 y 3)
+- Banco 2: Regularizacion (L1/L2) y busqueda de hiperparametros (Modulos 3, 4 y 5)
+- Banco 3: Pipeline completo, de la formulacion a la evaluacion final (Modulos 1 a 5)
+
 ## Herramientas
 
 - Python
